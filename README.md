@@ -1,2 +1,2 @@
-# Battleship
-Implementation of the battleship game in java
+# Battleship & Tic-Tac-Toe
+Implementation of the battleship and Tic-Tac-Toe game in java
